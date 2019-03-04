@@ -3,6 +3,7 @@ Interactive Python script for simple dimensional analysis
 
 # Example
 How fast would an object be travelling after 5 s?
+Output lines are highlighted with `> `
 ```
 $ py3 main.py
 9.82 m/s^2
